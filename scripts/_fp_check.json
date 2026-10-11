@@ -1,0 +1,86 @@
+[
+  {
+    "lang": "fa",
+    "title": "فراپروجکت، سامانه مدیریت یکپارچه پروژه های نرم افزاری",
+    "summary": "فراپروجکت، سامانه یکپارچه مدیریت پورتفولیو، پروژه و تسک با قابلیت برنامه‌ریزی، پایش پیشرفت",
+    "image": "/api/uploads/faraproject.jpg",
+    "tagline": "از مدیریت راهبردی پورتفولیو تا اجرای دقیق پروژه‌ها و تسک‌ها",
+    "features": 8,
+    "faqs": 4,
+    "related": [
+      "enterprise-ai-platform",
+      "ai-assistant",
+      "intelligent-bi"
+    ]
+  },
+  {
+    "lang": "en",
+    "title": "FaraProject, integrated software project management",
+    "summary": "An integrated portfolio, project, and task system for planning, progress tracking, resourc",
+    "image": "/api/uploads/faraproject.jpg",
+    "tagline": "From strategic portfolio control to precise project and task execution",
+    "features": 8,
+    "faqs": 4,
+    "related": [
+      "enterprise-ai-platform",
+      "ai-assistant",
+      "intelligent-bi"
+    ]
+  },
+  {
+    "lang": "ar",
+    "title": "فرابروجكت، نظام إدارة مشاريع البرمجيات المتكامل",
+    "summary": "نظام متكامل لإدارة المحفظة والمشروع والمهام مع التخطيط ومتابعة التقدم وإدارة الموارد وتقار",
+    "image": "/api/uploads/faraproject.jpg",
+    "tagline": "من إدارة المحفظة الاستراتيجية إلى تنفيذ المشاريع والمهام بدقة",
+    "features": 4,
+    "faqs": 0,
+    "related": [
+      "enterprise-ai-platform",
+      "ai-assistant",
+      "intelligent-bi"
+    ]
+  },
+  {
+    "lang": "fa-AF",
+    "title": "فراپروجکت، سامانه یکپارچه مدیریت پروژه‌های نرم‌افزاری",
+    "summary": "سامانه یکپارچه مدیریت پورتفولیو، پروژه و تسک با برنامه‌ریزی، پایش پیشرفت، مدیریت منابع و گ",
+    "image": "/api/uploads/faraproject.jpg",
+    "tagline": "از مدیریت راهبردی پورتفولیو تا اجرای دقیق پروژه و تسک",
+    "features": 4,
+    "faqs": 0,
+    "related": [
+      "enterprise-ai-platform",
+      "ai-assistant",
+      "intelligent-bi"
+    ]
+  },
+  {
+    "lang": "tr",
+    "title": "FaraProject, entegre yazılım proje yönetimi",
+    "summary": "Portföy, proje ve görev yönetimi için planlama, ilerleme takibi, kaynak kontrolü ve yöneti",
+    "image": "/api/uploads/faraproject.jpg",
+    "tagline": "Stratejik portföy yönetiminden proje ve görevlerin net uygulamasına",
+    "features": 4,
+    "faqs": 0,
+    "related": [
+      "enterprise-ai-platform",
+      "ai-assistant",
+      "intelligent-bi"
+    ]
+  },
+  {
+    "lang": "ru",
+    "title": "FaraProject — комплексное управление программными проектами",
+    "summary": "Единая система управления портфелем, проектами и задачами: планирование, контроль прогресс",
+    "image": "/api/uploads/faraproject.jpg",
+    "tagline": "От стратегического управления портфелем до точного выполнения проектов и задач",
+    "features": 4,
+    "faqs": 0,
+    "related": [
+      "enterprise-ai-platform",
+      "ai-assistant",
+      "intelligent-bi"
+    ]
+  }
+]

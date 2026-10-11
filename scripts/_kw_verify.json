@@ -1,0 +1,98 @@
+[
+  {
+    "path": "/fa/products/enterprise-ai-platform",
+    "title": "زیرساخت هوش مصنوعی سازمانی | پلتفرم GPU و LLM | فرا خرد",
+    "keywords": "زیرساخت هوش مصنوعی سازمانی, پلتفرم AI خصوصی, کلاستر GPU, سرو مدل LLM, پایگاه داد",
+    "desc": "پلتفرم خصوصی هوش مصنوعی سازمانی فرا خرد: کلاستر GPU، سرو مدل، پایگاه برداری، مدیریت چرخه ع"
+  },
+  {
+    "path": "/en/products/enterprise-ai-platform",
+    "title": "Enterprise AI Platform | Private GPU & LLM Infrastructure | Fara Kherad",
+    "keywords": "enterprise AI platform, private AI infrastructure, GPU cluster, LLM serving, vec",
+    "desc": "Fara Kherad private enterprise AI platform: GPU clusters, model serving, vector database, "
+  },
+  {
+    "path": "/fa/products/ai-assistant",
+    "title": "دستیار هوش مصنوعی سازمانی | چت‌بات LLM و اتوماسیون | فرا خرد",
+    "keywords": "دستیار هوش مصنوعی سازمانی, چت‌بات سازمانی, LLM, دستیار هوشمند کسب‌وکار, اتوماسیو",
+    "desc": "دستیار هوشمند سازمانی فرا خرد مبتنی بر LLM: درک مکالمه، اتصال به سامانه‌ها، اتوماسیون فرای"
+  },
+  {
+    "path": "/en/products/ai-assistant",
+    "title": "Enterprise AI Assistant | LLM Agent for Business | Fara Kherad",
+    "keywords": "enterprise AI assistant, business chatbot, LLM agent, AI process automation, age",
+    "desc": "Fara Kherad enterprise AI assistant: natural conversation, system integrations, process au"
+  },
+  {
+    "path": "/fa/products/intelligent-bi",
+    "title": "هوش تجاری تعاملی | تحلیل داده با هوش مصنوعی بدون SQL | فرا خرد",
+    "keywords": "هوش تجاری تعاملی, BI مبتنی بر هوش مصنوعی, تحلیل داده بدون SQL, هوش تجاری سازمانی",
+    "desc": "هوش تجاری تعاملی فرا خرد: پرسش به فارسی یا انگلیسی، تولید امن SQL، جدول، نمودار و تحلیل بر"
+  },
+  {
+    "path": "/en/products/intelligent-bi",
+    "title": "Interactive BI | AI Data Analysis Without SQL | Fara Kherad",
+    "keywords": "interactive BI, AI business intelligence, text to SQL, enterprise analytics, nat",
+    "desc": "Fara Kherad interactive BI: ask in plain language, generate safe SQL, and get tables, char"
+  },
+  {
+    "path": "/fa/products/api-gateway",
+    "title": "API Gateway سازمانی | امنیت، Rate Limit و صورتحساب API | فرا خرد",
+    "keywords": "API Gateway سازمانی, درگاه API, مدیریت API, Rate Limit, صورتحساب API, امنیت API",
+    "desc": "درگاه API سازمانی فرا خرد با احراز هویت، مسیریابی، محدودیت نرخ، مانیتورینگ، پیکربندی گرافی"
+  },
+  {
+    "path": "/en/products/api-gateway",
+    "title": "Enterprise API Gateway | Auth, Rate Limits & Billing | Fara Kherad",
+    "keywords": "enterprise API gateway, API management, rate limiting, API billing, API security",
+    "desc": "Fara Kherad enterprise API gateway with authentication, routing, rate limits, monitoring, "
+  },
+  {
+    "path": "/fa/products/online-queue-system",
+    "title": "سامانه نوبت‌دهی آنلاین | مدیریت صف بیمارستان، بانک و سازمان | فرا خرد",
+    "keywords": "سامانه نوبت‌دهی آنلاین, مدیریت صف, نوبت‌دهی بیمارستان, نوبت‌دهی بانک, نوبت‌دهی ک",
+    "desc": "سامانه نوبت‌دهی و مدیریت صف فرا خرد برای بیمارستان، کلینیک، بانک، بیمه و سازمان‌ها: رزرو آ"
+  },
+  {
+    "path": "/en/products/online-queue-system",
+    "title": "Online Appointment & Queue System for Banks & Clinics | Fara Kherad",
+    "keywords": "online appointment system, queue management software, hospital booking, bank que",
+    "desc": "Fara Kherad online booking and queue management for hospitals, clinics, banks, insurance, "
+  },
+  {
+    "path": "/fa/products/FaraProject",
+    "title": "فراپروجکت | نرم‌افزار مدیریت پروژه، پورتفولیو و تسک سازمانی | فرا خرد",
+    "keywords": "نرم‌افزار مدیریت پروژه, مدیریت پورتفولیو, سامانه PMO, مدیریت تسک سازمانی, فراپرو",
+    "desc": "فراپروجکت سامانه یکپارچه مدیریت پورتفولیو، پروژه و تسک: برنامه‌ریزی، WBS، مدیریت منابع، پا"
+  },
+  {
+    "path": "/en/products/FaraProject",
+    "title": "FaraProject | Portfolio, Project & Task Management Software | Fara Kherad",
+    "keywords": "project management software, portfolio management, PMO software, task management",
+    "desc": "FaraProject integrated portfolio, project, and task management: planning, WBS, resources, "
+  },
+  {
+    "path": "/fa/services/devops",
+    "title": "خدمات DevOps سازمانی | CI/CD، Kubernetes و اتوماسیون | فرا خرد",
+    "keywords": "خدمات DevOps, CI/CD, Kubernetes, Docker, اتوماسیون زیرساخت",
+    "desc": "خدمات DevOps فرا خرد: طراحی CI/CD، Kubernetes، Docker، اتوماسیون زیرساخت و مانیتورینگ برای"
+  },
+  {
+    "path": "/en/services/devops",
+    "title": "Enterprise DevOps Services | CI/CD & Kubernetes | Fara Kherad",
+    "keywords": "DevOps services, CI/CD, Kubernetes, Docker, infrastructure automation",
+    "desc": "Fara Kherad DevOps services: CI/CD, Kubernetes, Docker, infrastructure automation, and mon"
+  },
+  {
+    "path": "/fa/services/mlops",
+    "title": "خدمات MLOps | استقرار مدل هوش مصنوعی و LLM | فرا خرد",
+    "keywords": "خدمات MLOps, استقرار LLM, چرخه عمر مدل, GPU هوش مصنوعی, MLOps سازمانی",
+    "desc": "خدمات MLOps فرا خرد برای چرخه عمر مدل، GPU، نسخه مدل، پایپ‌لاین آموزش و استقرار پایدار LLM"
+  },
+  {
+    "path": "/en/services/mlops",
+    "title": "MLOps Services | LLM Deployment & Model Lifecycle | Fara Kherad",
+    "keywords": "MLOps services, LLM deployment, model lifecycle, enterprise MLOps, AI GPU",
+    "desc": "Fara Kherad MLOps services for model lifecycle, GPUs, training pipelines, and reliable LLM"
+  }
+]

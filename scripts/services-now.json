@@ -1,0 +1,22 @@
+[
+  {
+    "id": 13,
+    "slug": "devops",
+    "image": "/images/service-devops.jpg"
+  },
+  {
+    "id": 14,
+    "slug": "mlops",
+    "image": "/images/service-mlops.jpg"
+  },
+  {
+    "id": 19,
+    "slug": "service-19",
+    "image": ""
+  },
+  {
+    "id": 20,
+    "slug": "service-20",
+    "image": "/api/uploads/b7042f1165b64eb89af0087fa6ec52ac.jpg"
+  }
+]

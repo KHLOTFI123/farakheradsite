@@ -1,0 +1,18 @@
+services:
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    env_file: .env
+    environment:
+      DATABASE_URL: sqlite:////app/data/farakherad.db
+      STATIC_DIR: /app/static
+    ports:
+      - "3000:8000"
+    volumes:
+      - data:/app/data
+      - uploads:/app/uploads
+
+volumes:
+  data:
+  uploads:

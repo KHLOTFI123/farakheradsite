@@ -1,0 +1,22 @@
+services:
+  web:
+    image: farakheradsite-web:latest
+    build: .
+    container_name: farakherad
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      DATABASE_URL: sqlite:////app/data/farakherad.db
+      STATIC_DIR: /app/static
+      TZ: Asia/Tehran
+    ports:
+      - "127.0.0.1:3000:8000"
+    volumes:
+      - data:/app/data
+      - uploads:/app/uploads
+    mem_limit: 512m
+    memswap_limit: 512m
+
+volumes:
+  data:
+  uploads:

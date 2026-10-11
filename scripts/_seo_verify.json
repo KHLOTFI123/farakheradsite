@@ -1,0 +1,68 @@
+{
+  "robots": "User-agent: *\nAllow: /\nDisallow: /admin\nDisallow: /admin/\nDisallow: /api/\nDisallow: /*/search\nDisallow: /search\nSitemap: https://farakheradgroup.ir/sitemap.xml\nHost: farakheradgroup.ir\n",
+  "sitemap_has_hreflang": true,
+  "sitemap_has_priority": true,
+  "sitemap_url_count": 102,
+  "/fa": {
+    "title": "فرا خرد | نرم‌افزار سازمانی و هوش مصنوعی",
+    "canonical": "https://farakheradgroup.ir/fa",
+    "hreflang": 7,
+    "jsonld_types": [
+      [
+        "Organization",
+        "ProfessionalService"
+      ],
+      "WebSite"
+    ],
+    "robots": null,
+    "desc_len": 142
+  },
+  "/en": {
+    "title": "Fara Kherad | Enterprise Software & Artificial Intelligence",
+    "canonical": "https://farakheradgroup.ir/en",
+    "hreflang": 7,
+    "jsonld_types": [
+      [
+        "Organization",
+        "ProfessionalService"
+      ],
+      "WebSite"
+    ],
+    "robots": null,
+    "desc_len": 162
+  },
+  "/fa/products/FaraProject": {
+    "title": "فراپروجکت، سامانه مدیریت یکپارچه پروژه های نرم افزاری | فرا خرد",
+    "canonical": "https://farakheradgroup.ir/fa/products/FaraProject",
+    "hreflang": 7,
+    "jsonld_types": [
+      [
+        "Organization",
+        "ProfessionalService"
+      ],
+      "WebSite",
+      "BreadcrumbList",
+      "SoftwareApplication",
+      "FAQPage"
+    ],
+    "robots": null,
+    "desc_len": 160
+  },
+  "/en/products/FaraProject": {
+    "title": "FaraProject, integrated software project management | Fara Kherad",
+    "canonical": "https://farakheradgroup.ir/en/products/FaraProject",
+    "hreflang": 7,
+    "jsonld_types": [
+      [
+        "Organization",
+        "ProfessionalService"
+      ],
+      "WebSite",
+      "BreadcrumbList",
+      "SoftwareApplication",
+      "FAQPage"
+    ],
+    "robots": null,
+    "desc_len": 123
+  }
+}
